@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name" translatable="false">PlatzigramNew</string>
+    <string name="title_activity_referencia" translatable="false">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes Cuenta?, </string>
+    <string name="create_here">crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirmpassword">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_title_create_account">Crear Cuenta</string>
+    <string name="username_card">Uriel Ramírez</string>
+    <string name="firstWord_card">Hace</string>
+    <string name="timecard_Card">4 días</string>
+    <string name="likenumbercard_card">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+    <string name="secondword_detail">Me Gusta</string>
+    <string name="titleImage_detail" translatable="false">\"Todo copas en la playa\"</string>
+    <string name="lorem" translatable="false">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
+    Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</string>
+    <string name="transitioname_picture" translatable="false">transitionnamepicture</string>
+    <string name="menu_option_search">Buscar</string>
+    <string name="login_error">Ocurrio un Error</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_description">Descripción</string>
+    <string name="text_button_createapost">Crear Post</string>
+    <string name="facebook_app_id" translatable="false">211068443648492</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb211068443648492</string>
+    <string name="menu_signOut">Cerrar Sesión</string>
+    <string name="menu_about">Acerca De</string>
+</resources>
